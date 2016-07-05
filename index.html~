@@ -64,7 +64,11 @@
                         <div class="mui-textfield">
                             <input type="text" placeholder="Поиск шины">
                         </div>
+                        <div id="owl-main" class="owl-carousel">
                             <a href="#"><img src="./img/ac1.png" alt="Акция на 710/70R42 Titan за 139 200 руб.!"></a>
+                            <a href="#"><img src="./img/ac1.png" alt="Акция на 710/70R42 Titan за 139 200 руб.!"></a>
+                            <a href="#"><img src="./img/ac1.png" alt="Акция на 710/70R42 Titan за 139 200 руб.!"></a>
+                        </div>   
                     </div>
                     <div class="mui-col-md-3">
                         <h2>Контакты</h2>
@@ -76,7 +80,57 @@
 
                     </div>
                 </div>
-			</div>
+                <div class="mui-col-md-12 hottes_tires">
+                    <div class="hottest_title">
+                        <h2>Самые продаваемые шины в Июне</h2>
+                    </div>
+                </div>
+                <div class="mui-col-md-3 main_cart">
+                    <div class="cart_title">
+                        710/70R42
+                    </div>
+                    <img src="./img/tires/1.png" alt="1">
+                    <br>
+                    Titan<br>
+                    AG55V<br>
+                    176A8/D<br>
+                    <button class="sale">Добавить в заказ</button>
+                </div>
+                <div class="mui-col-md-3 main_cart">
+                    <div class="cart_title">
+                        710/70R42
+                    </div>
+                    <img src="./img/tires/1.png" alt="1">
+                    <br>
+                    Titan<br>
+                    AG55V<br>
+                    176A8/D<br>
+                    <button class="sale">Добавить в заказ</button>
+                </div>
+                <div class="mui-col-md-3 main_cart">
+                    <div class="cart_title">
+                        710/70R42
+                    </div>
+                    <img src="./img/tires/1.png" alt="1">
+                    <br>
+                    Titan<br>
+                    AG55V<br>
+                    176A8/D<br>
+                    <button class="sale">Добавить в заказ</button>
+                </div>
+                <div class="mui-col-md-3 main_cart">
+                    <div class="cart_title">
+                        710/70R42
+                    </div>
+                    <img src="./img/tires/1.png" alt="1">
+                    <br>
+                    Titan<br>
+                    AG55V<br>
+                    176A8/D<br>
+                    <button class="sale">Добавить в заказ</button>
+                </div>
+
+			</div>        
 		</div>	
 	</div>		
 
