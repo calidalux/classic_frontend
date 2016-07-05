@@ -1,0 +1,30 @@
+{
+  "name": "classic_front",
+  "version": "1.0.0",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "123"
+  },
+  "author": "CalidaLux",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calidalux/classic_frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/calidalux/classic_frontend/issues"
+  },
+  "homepage": "https://github.com/calidalux/classic_frontend#readme",
+  "description": ""
+}
